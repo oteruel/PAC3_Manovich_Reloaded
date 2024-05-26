@@ -128,6 +128,8 @@ Adell, F. [Ferran] (2014). Remediación, multimedia e hibridación de los medios
 
 Alberich-Pascual, J. [Jordi]. (18 de gener de 2018). Elementos de la creatividad multimedia: apropiación, remediación, hibridación. *Mosaic*. ISSN: 1696-3296 nº. 156. DOI: https://doi.org/10.7238/m.n156.1803
 
+EDpuzzle. (17 de novembre de 2021). *What is Edpuzzle?* [vídeo en línia]. YouTube. https://www.youtube.com/watch?v=msmWfQqVufc
+
 EDpuzzle Inc. (2024). *EDpuzzle*. https://edpuzzle.com/
 
 Fundació LaCaixa. (2024). *CaixaForum*. https://caixaforum.org/es/barcelona/symphony
