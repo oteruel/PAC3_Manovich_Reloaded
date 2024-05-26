@@ -24,19 +24,7 @@ ________________________________
   - [Conclusió](#Conclusió)
   - [Bibliografia](#Bibliografia)
 
-- Contextualització
-- Introducció
-- CAS 1: Symphony
-  - Què és?
-  - La hibridació
-  - Components fundacionals
-- CAS 2: EDpuzzle
-  - Què és?
-  - La hibridació
-  - Components fundacionals
-- Conclusió
-- Bibliografia
-
+________________________________
 
 ## Contextualització
 
