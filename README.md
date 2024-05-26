@@ -9,6 +9,35 @@ Data: 26/5/2024
 
 ________________________________
 
+## Índex
+
+  - [Contextualització](#Contextualització)
+  - [Introducció](#Introducció)
+  - [CAS 1: Symphony](#CAS-1-Symphony)
+    - [Què és?](#Què-és)
+    - [La hibridació](#La-hibridació)
+    - [Components fundacionals](#Components-fundacionals)
+  - [CAS 2: EDpuzzle](#CAS-2-EDpuzzle)
+    - [Què és?](#Què-és)
+    - [La hibridació](#La-hibridació)
+    - [Components fundacionals](#Components-fundacionals)
+  - [Conclusió](#Conclusió)
+  - [Bibliografia](#Bibliografia)
+
+- Contextualització
+- Introducció
+- CAS 1: Symphony
+  - Què és?
+  - La hibridació
+  - Components fundacionals
+- CAS 2: EDpuzzle
+  - Què és?
+  - La hibridació
+  - Components fundacionals
+- Conclusió
+- Bibliografia
+
+
 ## Contextualització
 
 Aquest és un assaig centrat en la descripció de **dos casos moderns d’hibridació**, analitzats d’acord amb les idees que Manovich recull a *El software toma el mando*. En primer lloc, tractarem el projecte ***Symphony*** a càrrec de Gustavo Dudamel, consistent en una experiència immersiva on l’oient pot moure’s, gràcies a la realitat virtual, a través i per dins dels diferents instruments de l’orquestra. En segon lloc, parlarem de l’aplicació **EDpuzzle** la qual fusiona dins d’una mateixa plataforma la reproducció d’un vídeo, un sistema per avaluar-ne la comprensió, així com un informe estadístic dels resultats obtinguts. 
@@ -147,4 +176,7 @@ Manovich, L. [Lev] (2013). *El software toma el mando*. Editorial UOC.
 Manovich, L. [Lev] (2005). *¿Qué son los nuevos medios?*. A L. [Lev] Manovich, *El lenguaje de los nuevos medios de comunicación* (p. 63-109). Barcelona: Paidós.
 
 Vilchez Jimenez, B. [Beatriz].(2021). Edpuzzle… y fuera fichas. *Observatorio de tecnología educativa, nº 43*. https://intef.es/observatorio_tecno/edpuzzle-y-fuera-fichas/
+
+_____
+Llicència: material Creative Commons desenvolupat sota la llicència CC BY-SA 4.0.
 
