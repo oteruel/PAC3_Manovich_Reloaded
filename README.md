@@ -1,4 +1,4 @@
-# PEC3: Assaig sobre dos casos d'hibridació
+# PAC3: Assaig sobre dos casos d'hibridació
 
 #### Anàlisi sobre dos casos nous d'hibridació d'acord amb el pensament de Manovich
 
@@ -29,7 +29,8 @@ Després del procés de remediació viscut pels antics medis –analitzat amb de
 ## CAS 1: Symphony
 
 ### Què és?
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szA0BUe7SKc" frameborder="0" allowfullscreen></iframe>
+
+[![Symphony Video](https://img.youtube.com/vi/szA0BUe7SKc/0.jpg)](https://www.youtube.com/watch?v=szA0BUe7SKc)
 
 > L’híbrid ofereix noves formes de representar el món o de navegar per aquestes representacions. - Manovich (2013, pàg. 258)
 
@@ -70,6 +71,8 @@ Una de les derivacions interessants que comporta la separació entre estructura 
 ## CAS 2: EDpuzzle
 
 ### Què és?
+[![EDpuzzle Video](https://img.youtube.com/vi/msmWfQqVufc/0.jpg)](https://www.youtube.com/watch?v=msmWfQqVufc)
+
 EDpuzzle és una aplicació web centrada en l’**àmbit educatiu**, present a 190 països d’arreu del món i utilitzada per 2,6 milions de mestres i professors. El seu tret característic és utilitzar el **vídeo per a transmetre coneixement i avaluar-lo**. Sigui un vídeo de creació pròpia o importat d’alguna altra plataforma, com ara YouTube, el docent pot assignar diferents preguntes relacionades amb el vídeo o, fent ús de la recentment integrada intel·ligència artificial, pot generar-les automàticament, així com les seves respostes. 
 
 A més, el professor gestiona tot un seguit d’ajudes a l’alumnat, com ara anotacions escrites o de veu per aclarir certs aspectes del vídeo, impedir que un alumne pugui avançar en la reproducció del vídeo fins que no respongui bé la pregunta, així com permetre les respostes orals. 
@@ -125,7 +128,21 @@ Adell, F. [Ferran] (2014). Remediación, multimedia e hibridación de los medios
 
 Alberich-Pascual, J. [Jordi]. (18 de gener de 2018). Elementos de la creatividad multimedia: apropiación, remediación, hibridación. *Mosaic*. ISSN: 1696-3296 nº. 156. DOI: https://doi.org/10.7238/m.n156.1803
 
+EDpuzzle Inc. (2024). *EDpuzzle*. https://edpuzzle.com/
+
+Fundació LaCaixa. (2024). *CaixaForum*. https://caixaforum.org/es/barcelona/symphony
+
+Fundación "la Caixa". (14 de desembre de 2020). *Symphony – Un viaje virtual al corazón de la música de la mano de Gustavo Dudamel* [vídeo en línia]. YouTube. https://www.youtube.com/watch?v=szA0BUe7SKc
+
+Fundación "la Caixa". (15 de setembre de 2020). *"Symphony": viaje inédito al corazón de la música. (Vídeo editado ESP. Material prensa).* [vídeo en línia]. YouTube. https://www.youtube.com/watch?v=th9B-UYVIuM
+
+Fundación "la Caixa". (22 de setembre de 2020). *SYMPHONY – Making of* [vídeo en línia]. YouTube. https://www.youtube.com/watch?v=Ld0qgVyx-2A
+
+Igor Studio. (2024). *Igor Studio*. https://igorstudio.com/creaciones/symphony-en/
+
 Manovich, L. [Lev] (2013). *El software toma el mando*. Editorial UOC.
 
 Manovich, L. [Lev] (2005). *¿Qué son los nuevos medios?*. A L. [Lev] Manovich, *El lenguaje de los nuevos medios de comunicación* (p. 63-109). Barcelona: Paidós.
+
+Vilchez Jimenez, B. [Beatriz].(2021). Edpuzzle… y fuera fichas. *Observatorio de tecnología educativa, nº 43*. https://intef.es/observatorio_tecno/edpuzzle-y-fuera-fichas/
 
