@@ -1,11 +1,11 @@
-PAC3 License
+PEC3 License
 =========================
 
 Assaig d'Olga Teruel Soldevila. Anàlisi sobre la hibridació de *Symphony* i *EDpuzzle*.
 
-CC BY 4.0 DEED
+**CC BY 4.0 DEED**
 
-Attribution 4.0 International
+**Attribution 4.0 International**
 
 https://creativecommons.org/licenses/by/4.0/
 
