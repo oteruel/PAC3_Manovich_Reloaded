@@ -29,6 +29,8 @@ Després del procés de remediació viscut pels antics medis –analitzat amb de
 ## CAS 1: Symphony
 
 ### Què és?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szA0BUe7SKc" frameborder="0" allowfullscreen></iframe>
+
 > L’híbrid ofereix noves formes de representar el món o de navegar per aquestes representacions. - Manovich (2013, pàg. 258)
 
 *Symphony* és un projecte escrit i dirigit per Igor Cortadelles amb el suport de la Fundació La Caixa el qual neix amb la finalitat d’**acostar la música clàssica al gran públic**. Sota la batuta de Gustavo Dudamel, un dels grans director d’orquestra del panorama actual, la Malher Chamber Orchestra  interpreta peces de Beethoven, Mahler i Bernstein. 
